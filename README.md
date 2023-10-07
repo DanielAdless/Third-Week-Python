@@ -62,6 +62,9 @@ Major points analyzed in the Titanic dataset include:
 • Missing Data: searching for missing or incomplete data (missing values) in the dataset.
 
 
+# Python Mini Project Adaptation
+
+The goal of learning Python Mini Project Adaptation is to provide participants with practical experience to apply knowledge and skills learned in Python programming languages.
 
 
 

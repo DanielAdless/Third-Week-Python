@@ -69,6 +69,8 @@ The goal of learning Python Mini Project Adaptation is to provide participants w
 
 
 
+
+
 🙌"The third week of learning Python has brought more knowledge, experience, and confidence. We are currently focusing on a deeper understanding of the basic concepts of Python, as well as its application to data analysis. Although we sometimes face obstacles, we realize that that's part of the learning process. We feel lucky to have supportive group friends, and mentors who are always ready to guide us. Thank you for your support and encouragement during this trip!"🚀
 
 

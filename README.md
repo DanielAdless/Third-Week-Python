@@ -49,17 +49,17 @@ DataFrame in Python is a highly flexible two-dimensional data structure used to 
 This data is used as a case study in data analysis as it provides varied information about the survivors and survivors of the first tragic voyage.
 
 
-Adapun poin-poin utama yang dianalisis dalam dataset Titanic meliputi:
+Major points analyzed in the Titanic dataset include:
 
-•	Survival (Kelangsungan Hidup): Salah satu poin yang paling penting dalam analisis tingkat kelangsungan hidup. Bagaimana distribusi selamat dan tidak selamat di antara penumpang, apakah ada faktor-faktor tertentu yang memengaruhi tingkat kelangsungan hidup, seperti kelas kabin, jenis kelamin, usia, dan sebagainya.
+• Survival: one of the most important points in survival analysis. How is the distribution of survival and non-availability among passengers, whether there are certain factors affecting survival rates, such as cabin class, gender, age, and so on.
 
-•	Pengklasifikasian Penumpang: Data Titanic mencakup informasi tentang kelas kabin (Pclass), jenis kelamin (Sex), dan usia (Age) penumpang. untuk melihat bagaimana distribusi kelangsungan hidup berdasarkan data ini.
+• Passengers classification: Titanic data includes information about cabin class (Pclass), sex (Sex), and age (Age) of passengers. to see how the survival distribution is based on this data.
 
-•	Data Keluarga (SibSp dan Parch): Variabel SibSp (jumlah saudara atau pasangan di kapal) dan Parch (jumlah orang tua atau anak di kapal) yang digunakan untuk menganalisis bagaimana kehadiran keluarga memengaruhi tingkat kelangsungan hidup.
+• Family Data (SibSp and Parch): SibSp variables (number of siblings or spouses on board) and Parch (number of parents or children on board) used to analyze how family presence affects survival rates.
 
-•	Biaya Tiket (Fare): Biaya tiket digunakan sebagai indikator status sosial penumpang dan rata-rata pemesanan tiket berdasarkan kelas.
+• Ticket Fee (Fare): Ticket fee is used as an indicator of the passenger's social status and the average ticket reservation by class.
 
-•	Data yang Hilang: mencari data yang hilang atau tidak lengkap (missing values) dalam dataset.
+• Missing Data: searching for missing or incomplete data (missing values) in the dataset.
 
 
 

@@ -37,7 +37,7 @@ You access elements or parts of DataFrame by referring to indexes by order of ro
 
 # Dictionary 
 
-A Python dictionary is a data structure used to store data in the form of key-value pairs (key-value pairs). Each element in the dictionary consists of two main parts: a key (key) and a value (value).
+A Python dictionary is a data structure used to store associated key pairs (keys) A dictionary is part of a data type called mapping or associative array. The main feature of the dictionary is its ability to organize, store, and access data in an efficient manner.
 
 # DataFrame 
 

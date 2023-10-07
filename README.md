@@ -44,6 +44,22 @@ A Python dictionary is a data structure used to store associated key pairs (keys
 DataFrame in Python is a highly flexible two-dimensional data structure used to store and manage data in a table similar to a spreadsheet or database. DataFrame consists of rows and columns, where each column can contain different types of data (e.g., numbers, text, dates) and have its own label. Data Frames is a powerful tool for importing, processing, analyzing, and modifying data in a variety of formats, including CSV, Excel, SQL, and many others.
 
 
+# Processing Titanic Analysis Data
+
+This data is used as a case study in data analysis as it provides varied information about the survivors and survivors of the first tragic voyage.
+
+
+Adapun poin-poin utama yang dianalisis dalam dataset Titanic meliputi:
+
+•	Survival (Kelangsungan Hidup): Salah satu poin yang paling penting dalam analisis tingkat kelangsungan hidup. Bagaimana distribusi selamat dan tidak selamat di antara penumpang, apakah ada faktor-faktor tertentu yang memengaruhi tingkat kelangsungan hidup, seperti kelas kabin, jenis kelamin, usia, dan sebagainya.
+
+•	Pengklasifikasian Penumpang: Data Titanic mencakup informasi tentang kelas kabin (Pclass), jenis kelamin (Sex), dan usia (Age) penumpang. untuk melihat bagaimana distribusi kelangsungan hidup berdasarkan data ini.
+
+•	Data Keluarga (SibSp dan Parch): Variabel SibSp (jumlah saudara atau pasangan di kapal) dan Parch (jumlah orang tua atau anak di kapal) yang digunakan untuk menganalisis bagaimana kehadiran keluarga memengaruhi tingkat kelangsungan hidup.
+
+•	Biaya Tiket (Fare): Biaya tiket digunakan sebagai indikator status sosial penumpang dan rata-rata pemesanan tiket berdasarkan kelas.
+
+•	Data yang Hilang: mencari data yang hilang atau tidak lengkap (missing values) dalam dataset.
 
 
 

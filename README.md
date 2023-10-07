@@ -13,3 +13,13 @@ Here are some important features about NumPy in Python:
 • NumPy is an active open source project. The library has a large and diverse community that contributes to the development and maintenance of the library.
 
 # Pandas
+
+Pandas is a Python library used for data analysis, data manipulation, and tabular data processing. It is very popular in the data science and data analysis community because it provides a powerful and efficient tool for working with structured data.
+
+The following are some of the main features of Pandas:
+
+• DataFrame: DataFrame is the core data structure in Pandas. This is a two-dimensional table similar to a spreadsheet or table in a database. DataFrame allows you to store, index, and manage data in a structured format.
+
+• Series is a one-dimensional data structure in Pandas. This is similar to the columns in DataFrame and is used to store one type of data in bulk.
+
+• Data Manipulation: You can perform various data manipulation operations such as filtering, indexing, merging, sorting, grouping, and data transformation.

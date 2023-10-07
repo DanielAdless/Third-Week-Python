@@ -23,3 +23,32 @@ The following are some of the main features of Pandas:
 • Series is a one-dimensional data structure in Pandas. This is similar to the columns in DataFrame and is used to store one type of data in bulk.
 
 • Data Manipulation: You can perform various data manipulation operations such as filtering, indexing, merging, sorting, grouping, and data transformation.
+
+
+# loc and iloc
+
+• loc (Label-based indexing)
+loc is used to access data by label or row and column name.
+You access elements or parts of DataFrame by referring to line and column label names.
+
+• iloc (Integer-based indexing)
+iloc is used to access data by position index, starting at 0.
+You access elements or parts of DataFrame by referring to indexes by order of rows and columns.
+
+# Dictionary 
+
+A Python dictionary is a data structure used to store data in the form of key-value pairs (key-value pairs). Each element in the dictionary consists of two main parts: a key (key) and a value (value).
+
+# DataFrame 
+
+DataFrame in Python is a highly flexible two-dimensional data structure used to store and manage data in a table similar to a spreadsheet or database. DataFrame consists of rows and columns, where each column can contain different types of data (e.g., numbers, text, dates) and have its own label. Data Frames is a powerful tool for importing, processing, analyzing, and modifying data in a variety of formats, including CSV, Excel, SQL, and many others.
+
+
+
+
+
+
+
+
+
+

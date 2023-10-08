@@ -111,8 +111,16 @@ Example source code:
 ![cr11](https://github.com/DanielAdless/Third-Week-Python/assets/145754190/5fe6be0f-fbb1-4f04-b4ac-7e5f89aea0da)
 
 
+![cr12](https://github.com/DanielAdless/Third-Week-Python/assets/145754190/15138448-d3b1-4064-a7f8-f414ebc35e67)
 
 
+![cr13](https://github.com/DanielAdless/Third-Week-Python/assets/145754190/300b0f2f-adf2-4a96-933c-13f66026ffc2)
+
+
+![cr14](https://github.com/DanielAdless/Third-Week-Python/assets/145754190/5efade18-8667-432d-863f-10781eac7b42)
+
+
+![cr15](https://github.com/DanielAdless/Third-Week-Python/assets/145754190/961472cd-c957-4380-9a7b-027af5efffa1)
 
 
 # Python Mini Project Adaptation

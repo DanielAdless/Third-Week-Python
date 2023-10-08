@@ -97,6 +97,23 @@ Major points analyzed in the Titanic dataset include:
 
 • Missing Data: searching for missing or incomplete data (missing values) in the dataset.
 
+Example source code:
+
+![cr8](https://github.com/DanielAdless/Third-Week-Python/assets/145754190/483b8fa2-72ac-423f-9326-287229ec2704)
+
+
+![cr9](https://github.com/DanielAdless/Third-Week-Python/assets/145754190/26c2daac-0a73-41dc-b610-1ade11cbbe49)
+
+
+![cr10](https://github.com/DanielAdless/Third-Week-Python/assets/145754190/39de544a-3ea2-484c-80f0-c0ba1baa6c8a)
+
+
+![cr11](https://github.com/DanielAdless/Third-Week-Python/assets/145754190/5fe6be0f-fbb1-4f04-b4ac-7e5f89aea0da)
+
+
+
+
+
 
 # Python Mini Project Adaptation
 

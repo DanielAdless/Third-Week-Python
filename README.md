@@ -12,6 +12,11 @@ Here are some important features about NumPy in Python:
 
 • NumPy is an active open source project. The library has a large and diverse community that contributes to the development and maintenance of the library.
 
+Example source code:
+
+![cr](https://github.com/DanielAdless/Third-Week-Python/assets/145754190/abcd13c8-1121-4b11-a556-28da58baa651)
+
+
 # Pandas
 
 Pandas is a Python library used for data analysis, data manipulation, and tabular data processing. It is very popular in the data science and data analysis community because it provides a powerful and efficient tool for working with structured data.

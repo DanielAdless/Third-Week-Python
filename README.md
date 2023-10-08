@@ -54,6 +54,16 @@ Example source code:
 
 A Python dictionary is a data structure used to store associated key pairs (keys) A dictionary is part of a data type called mapping or associative array. The main feature of the dictionary is its ability to organize, store, and access data in an efficient manner.
 
+Example source code:
+
+![cr3](https://github.com/DanielAdless/Third-Week-Python/assets/145754190/0cc3f8a8-7486-4f01-879e-3d2de03f73d0)
+
+
+Example source code:
+
+![cr4](https://github.com/DanielAdless/Third-Week-Python/assets/145754190/111c7c78-ba61-406f-975c-169650e78e8c)
+
+
 # DataFrame 
 
 DataFrame in Python is a highly flexible two-dimensional data structure used to store and manage data in a table similar to a spreadsheet or database. DataFrame consists of rows and columns, where each column can contain different types of data (e.g., numbers, text, dates) and have its own label. Data Frames is a powerful tool for importing, processing, analyzing, and modifying data in a variety of formats, including CSV, Excel, SQL, and many others.

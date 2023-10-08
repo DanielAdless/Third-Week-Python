@@ -45,6 +45,11 @@ You access elements or parts of DataFrame by referring to line and column label 
 iloc is used to access data by position index, starting at 0.
 You access elements or parts of DataFrame by referring to indexes by order of rows and columns.
 
+Example source code:
+
+![cr2](https://github.com/DanielAdless/Third-Week-Python/assets/145754190/83ebfebe-93d7-4efe-8ae2-edda42df8005)
+
+
 # Dictionary 
 
 A Python dictionary is a data structure used to store associated key pairs (keys) A dictionary is part of a data type called mapping or associative array. The main feature of the dictionary is its ability to organize, store, and access data in an efficient manner.

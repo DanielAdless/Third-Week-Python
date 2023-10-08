@@ -29,6 +29,11 @@ The following are some of the main features of Pandas:
 
 • Data Manipulation: You can perform various data manipulation operations such as filtering, indexing, merging, sorting, grouping, and data transformation.
 
+Example source code:
+
+![cr1](https://github.com/DanielAdless/Third-Week-Python/assets/145754190/d9bfb3d0-e5ec-4bbd-b2c3-6fb0a78bd8cc)
+
+
 
 # loc and iloc
 

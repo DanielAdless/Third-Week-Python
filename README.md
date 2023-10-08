@@ -68,6 +68,17 @@ Example source code:
 
 DataFrame in Python is a highly flexible two-dimensional data structure used to store and manage data in a table similar to a spreadsheet or database. DataFrame consists of rows and columns, where each column can contain different types of data (e.g., numbers, text, dates) and have its own label. Data Frames is a powerful tool for importing, processing, analyzing, and modifying data in a variety of formats, including CSV, Excel, SQL, and many others.
 
+Example source code:
+
+![cr5](https://github.com/DanielAdless/Third-Week-Python/assets/145754190/40705206-4934-4e7e-826b-cf3170504dff)
+
+
+![cr6](https://github.com/DanielAdless/Third-Week-Python/assets/145754190/e5e38af5-19a0-4528-85b2-05a2494c22f2)
+
+
+![cr7](https://github.com/DanielAdless/Third-Week-Python/assets/145754190/0583d094-0394-4a34-9351-7a7c19ec3ed7)
+
+
 
 # Processing Titanic Analysis Data
 
